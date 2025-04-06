@@ -13,4 +13,4 @@ A cross-platform solution to generate CAPTCHA images without `System.Drawing`.
 ```bash
 git clone https://github.com/KiarashMinoo/CaptchaWithSkiaSharp
 cd CaptchaWithSkiaSharp
-dotnet run --project src/CaptchaDemo.Console
+dotnet run 
